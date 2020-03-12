@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#used to update code on server whenever we make a change
 set -e
 
 PROJECT_BASE_PATH='/usr/local/apps/profiles-rest-api'
